@@ -1,6 +1,8 @@
+'''c
+
 /*
-¼ÆËã24ÓÎÏ·
-¡¾Éè¼ÆÒªÇó¡¿ÊäÈëËÄ¸öÊýÍ¨¹ý¼Ó¼õ³Ë³ý¼ÆËã³ö24£¬ÏÔÊ¾¼ÆËã¹ý³Ì£¬²¢ÌáÊ¾³É¹¦ÐÅÏ¢¡£
+è®¡ç®—24æ¸¸æˆ
+ã€è®¾è®¡è¦æ±‚ã€‘è¾“å…¥å››ä¸ªæ•°é€šè¿‡åŠ å‡ä¹˜é™¤è®¡ç®—å‡º24ï¼Œæ˜¾ç¤ºè®¡ç®—è¿‡ç¨‹ï¼Œå¹¶æç¤ºæˆåŠŸä¿¡æ¯ã€‚
 */
 #include<iostream>
 #include<Windows.h>
@@ -47,3 +49,4 @@ int main() {
 	system("pause");
 	return 0;
 }
+'''
